@@ -161,12 +161,12 @@
         "name": "Banff National Park",
         "country": "Canada",
         "continent": "North America",
-        "image": "banff.jpg",
+        "image": "https://images.unsplash.com/photo-1511525499366-bc3f823bacb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QmFuZmYlMjBOYXRpb25hbCUyMFBhcmt8ZW58MHx8MHx8fDA%3D",
         "description": "Canada's first national park with stunning Rocky Mountain scenery.",
         "longDescription": "Banff National Park is Canada's oldest national park, established in 1885 in the Rocky Mountains. The park, located 110–180 kilometers (68–112 mi) west of Calgary in the province of Alberta, encompasses 6,641 square kilometers (2,564 sq mi) of mountainous terrain, with numerous glaciers and ice fields, dense coniferous forest, and alpine landscapes. The Icefields Parkway extends from Lake Louise, connecting to Jasper National Park in the north. Provincial forests and Yoho National Park are neighbors to the west, while Kootenay National Park is located to the south.",
         "rating": 4.8,
         "bestTimeToVisit": "June to August, December to March (for skiing)",
-        "averageCost": "$$$",
+        "averageCost": "845 Usd",
         "travelTips": "Visit Lake Louise and Moraine Lake early to avoid crowds. The hot springs are a great way to relax after hiking."
       },
       {
@@ -174,12 +174,12 @@
         "name": "Petra",
         "country": "Jordan",
         "continent": "Asia",
-        "image": "petra.jpg",
+        "image": "https://images.unsplash.com/photo-1579606032821-4e6161c81bd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGV0cmF8ZW58MHx8MHx8fDA%3D",
         "description": "Ancient Nabatean city carved into pink sandstone cliffs.",
         "longDescription": "Petra is a historical and archaeological city in southern Jordan. Petra lies on the slope of Jabal Al-Madbah in a basin among the mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea to the Gulf of Aqaba. Established possibly as early as 312 BCE as the capital city of the Nabataean Kingdom, the site remained unknown to the Western world until 1812, when it was introduced by Swiss explorer Johann Ludwig Burckhardt. It was famously described as 'a rose-red city half as old as time' in a Newdigate Prize-winning poem by John William Burgon.",
         "rating": 4.9,
         "bestTimeToVisit": "March to May, September to November",
-        "averageCost": "$$$",
+        "averageCost": "1500 Usd",
         "travelTips": "Arrive early to see the Treasury in morning light. Wear comfortable shoes as there's lots of walking."
       },
       {
@@ -187,12 +187,12 @@
         "name": "Venice",
         "country": "Italy",
         "continent": "Europe",
-        "image": "venice.jpg",
+        "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVuaWNlfGVufDB8fDB8fHww",
         "description": "Romantic city built on canals with stunning architecture.",
         "longDescription": "Venice, the capital of northern Italy's Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare – lined with Renaissance and Gothic palaces. The central square, Piazza San Marco, contains St. Mark's Basilica, which is tiled with Byzantine mosaics, and the Campanile bell tower offering views of the city's red roofs. Venice is renowned for its beautiful settings, unique architecture, and artwork. The city in its entirety is listed as a World Heritage Site, along with its lagoon.",
         "rating": 4.6,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$$",
+        "averageCost": "2000 Usd",
         "travelTips": "Get lost in the back alleys away from tourist crowds. Visit Burano island for colorful houses."
       },
       {
@@ -200,12 +200,12 @@
         "name": "Yosemite National Park",
         "country": "United States",
         "continent": "North America",
-        "image": "yosemite.jpg",
+        "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8WW9zZW1pdGUlMjBOYXRpb25hbCUyMFBhcmt8ZW58MHx8MHx8fDA%3D",
         "description": "Stunning valley with granite cliffs, waterfalls, and giant sequoias.",
         "longDescription": "Yosemite National Park is in California's Sierra Nevada mountains. It's famed for its giant, ancient sequoia trees, and for Tunnel View, the iconic vista of towering Bridalveil Fall and the granite cliffs of El Capitan and Half Dome. In Yosemite Village are shops, restaurants, lodging, the Yosemite Museum and the Ansel Adams Gallery, with prints of the photographer's renowned black-and-white landscapes of the area. The park is internationally recognized for its granite cliffs, waterfalls, clear streams, giant sequoia groves, lakes, mountains, meadows, glaciers, and biological diversity.",
         "rating": 4.8,
         "bestTimeToVisit": "May to September",
-        "averageCost": "$$",
+        "averageCost": "1200 Usd",
         "travelTips": "Reserve accommodations well in advance. Hike to Glacier Point for amazing views."
       },
       {
@@ -213,12 +213,12 @@
         "name": "Angkor Wat",
         "country": "Cambodia",
         "continent": "Asia",
-        "image": "angkor-wat.jpg",
+        "image": "https://images.unsplash.com/photo-1600807455249-89d2e285b9e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEFuZ2tvciUyMFdhdHxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Massive temple complex and the largest religious monument in the world.",
         "longDescription": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world by land area, with its site measuring 162.6 hectares (1.626 km2; 402 acres). It was originally constructed as a Hindu temple dedicated to the god Vishnu for the Khmer Empire, gradually transforming into a Buddhist temple toward the end of the 12th century. It was built by the Khmer King Suryavarman II in the early 12th century in Yaśodharapura (present-day Angkor), the capital of the Khmer Empire, as his state temple and eventual mausoleum.",
         "rating": 4.9,
         "bestTimeToVisit": "November to February",
-        "averageCost": "$$",
+        "averageCost": "1300 Usd",
         "travelTips": "Visit at sunrise for a magical experience. Get a 3-day pass to explore beyond the main temple."
       },
       {
@@ -226,12 +226,12 @@
         "name": "Northern Lights (Aurora Borealis)",
         "country": "Various (Norway, Iceland, etc.)",
         "continent": "Europe",
-        "image": "northern-lights.jpg",
+        "image": "https://images.unsplash.com/photo-1473711409856-39138e48cb9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Tm9ydGhlcm4lMjBMaWdodHMlMjAoQXVyb3JhJTIwQm9yZWFsaXMpfGVufDB8fDB8fHww",
         "description": "Natural light display in the Earth's sky, predominantly seen in high-latitude regions.",
         "longDescription": "The northern lights, or aurora borealis, are a natural light display in the Earth's sky, predominantly seen in high-latitude regions (around the Arctic). They are caused by disturbances in the magnetosphere caused by solar wind. These disturbances are sometimes strong enough to alter the trajectories of charged particles in both solar wind and magnetospheric plasma. These particles, mainly electrons and protons, precipitate into the upper atmosphere (thermosphere/exosphere). The resulting ionization and excitation of atmospheric constituents emits light of varying color and complexity.",
         "rating": 4.9,
         "bestTimeToVisit": "September to March",
-        "averageCost": "$$$",
+        "averageCost": "2500 Usd",
         "travelTips": "Go to remote areas away from light pollution. Be patient as sightings aren't guaranteed."
       },
       {
@@ -239,12 +239,12 @@
         "name": "Galápagos Islands",
         "country": "Ecuador",
         "continent": "South America",
-        "image": "galapagos.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1664304455335-602b6811149a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R2FsJUMzJUExcGFnb3MlMjBJc2xhbmRzfGVufDB8fDB8fHww",
         "description": "Volcanic archipelago famous for its unique wildlife that inspired Darwin's theory.",
         "longDescription": "The Galápagos Islands are a volcanic archipelago in the Pacific Ocean. It's considered one of the world's foremost destinations for wildlife viewing. Its isolated terrain shelters a diversity of plant and animal species, many found nowhere else. Charles Darwin visited in 1835, and his observation of Galápagos' species later inspired his theory of evolution. The islands are known for their large number of endemic species that were studied by Charles Darwin during the second voyage of HMS Beagle. His observations and collections contributed to the inception of Darwin's theory of evolution by means of natural selection.",
         "rating": 4.9,
         "bestTimeToVisit": "June to November (cooler, dry season)",
-        "averageCost": "$$$$",
+        "averageCost": "1000 Usd",
         "travelTips": "Book a liveaboard cruise to visit multiple islands. Follow all conservation rules strictly."
       },
       {
@@ -252,12 +252,12 @@
         "name": "Dubai",
         "country": "United Arab Emirates",
         "continent": "Asia",
-        "image": "dubai.jpg",
+        "image": "https://images.unsplash.com/photo-1526495124232-a04e1849168c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGR1YmFpfGVufDB8fDB8fHww",
         "description": "Ultramodern city in the desert known for luxury shopping and futuristic architecture.",
         "longDescription": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks. Dubai is a global city and business hub of the Middle East. It is also a major transport hub for passengers and cargo. By the 1960s, Dubai's economy was based on revenues from trade and, to a smaller extent, oil exploration concessions.",
         "rating": 4.5,
         "bestTimeToVisit": "November to March",
-        "averageCost": "$$$$",
+        "averageCost": "1300 Usd",
         "travelTips": "Visit during the Dubai Shopping Festival for great deals. Dress modestly in public areas."
       },
       {
