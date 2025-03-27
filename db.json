@@ -265,12 +265,12 @@
         "name": "Amazon Rainforest",
         "country": "Brazil/Peru/etc.",
         "continent": "South America",
-        "image": "amazon.jpg",
+        "image": "https://images.unsplash.com/photo-1623980051061-fce02122f7fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFtYXpvbiUyMFJhaW5mb3Jlc3R8ZW58MHx8MHx8fDA%3D",
         "description": "The world's largest tropical rainforest with incredible biodiversity.",
         "longDescription": "The Amazon rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 km2 (2,700,000 sq mi), of which 5,500,000 km2 (2,100,000 sq mi) are covered by the rainforest. This region includes territory belonging to nine nations. The majority of the forest is contained within Brazil, with 60% of the rainforest, followed by Peru with 13%, Colombia with 10%, and with minor amounts in Venezuela, Ecuador, Bolivia, Guyana, Suriname and French Guiana.",
         "rating": 4.7,
         "bestTimeToVisit": "June to November (dry season)",
-        "averageCost": "$$$",
+        "averageCost": "800 Usd",
         "travelTips": "Choose eco-friendly lodges. Bring insect repellent and lightweight, long-sleeved clothing."
       },
       {
@@ -278,12 +278,12 @@
         "name": "Bora Bora",
         "country": "French Polynesia",
         "continent": "Australia",
-        "image": "bora-bora.jpg",
+        "image": "https://images.unsplash.com/photo-1633381685199-99c89e48b8b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEJvcmElMjBCb3JhfGVufDB8fDB8fHww",
         "description": "Small South Pacific island known for its turquoise lagoon and luxury resorts.",
         "longDescription": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it's known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts. The island, about 230 kilometers (143 miles) northwest of Papeete, is surrounded by a lagoon and a barrier reef. In the center of the island are the remnants of an extinct volcano rising to two peaks, Mount Pahia and Mount Otemanu, the highest point at 727 meters (2,385 ft).",
         "rating": 4.8,
         "bestTimeToVisit": "May to October",
-        "averageCost": "$$$$$",
+        "averageCost": "1250 Usd",
         "travelTips": "Stay in an overwater bungalow for the full experience. Try snorkeling with reef sharks."
       },
       {
@@ -291,12 +291,12 @@
         "name": "Cape Town",
         "country": "South Africa",
         "continent": "Africa",
-        "image": "cape-town.jpg",
+        "image": "https://images.unsplash.com/photo-1576485375217-d6a95e34d043?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FwZSUyMHRvd258ZW58MHx8MHx8fDA%3D",
         "description": "Coastal city with Table Mountain, beaches, and nearby wine regions.",
         "longDescription": "Cape Town is a port city on South Africa's southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain's flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum. Cape Town is one of South Africa's three capital cities, serving as the seat of the Parliament of South Africa. It is the legislative capital of the country, the oldest city in the country, and the second largest (after Johannesburg).",
         "rating": 4.7,
         "bestTimeToVisit": "March to May, September to November",
-        "averageCost": "$$",
+        "averageCost": "900 Usd",
         "travelTips": "Take the cable car up Table Mountain on a clear day. Visit the penguins at Boulders Beach."
       },
       {
@@ -304,12 +304,12 @@
         "name": "Iguazu Falls",
         "country": "Argentina/Brazil",
         "continent": "South America",
-        "image": "iguazu.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1664361480975-4c63828f5d88?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aWd1YW56dSUyMGZhbGxzfGVufDB8fDB8fHww",
         "description": "Massive waterfall system on the border of Argentina and Brazil.",
         "longDescription": "Iguazu Falls, or Iguaçu Falls, are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu. The Iguazu River rises near the city of Curitiba. For most of its course, the river flows through Brazil; however, most of the falls are on the Argentine side. Below its confluence with the San Antonio River, the Iguazu River forms the boundary between Argentina and Brazil.",
         "rating": 4.8,
         "bestTimeToVisit": "March to May, August to November",
-        "averageCost": "$$",
+        "averageCost": "900 Usd",
         "travelTips": "Visit both the Argentine and Brazilian sides for different perspectives. Take the boat ride under the falls."
       },
       {
@@ -317,12 +317,12 @@
         "name": "Marrakech",
         "country": "Morocco",
         "continent": "Africa",
-        "image": "marrakech.jpg",
+        "image": "https://images.unsplash.com/photo-1561642769-1bca263542e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFycmFrZWNofGVufDB8fDB8fHww",
         "description": "Vibrant Moroccan city with historic medina, souks, and palaces.",
         "longDescription": "Marrakech is a former imperial city in western Morocco. It's a major economic center and home to mosques, palaces and gardens. The medina is a densely packed, walled medieval city dating to the Berber Empire, with mazelike alleys where thriving souks (marketplaces) sell traditional textiles, pottery and jewelry. A symbol of the city, and visible for miles, is the Moorish minaret of 12th-century Koutoubia Mosque. Marrakech has the largest traditional market (souk) in Morocco and also has one of the busiest squares in Africa and the world, Djemaa el-Fna.",
         "rating": 4.6,
         "bestTimeToVisit": "March to May, September to November",
-        "averageCost": "$$",
+        "averageCost": "450 Usd",
         "travelTips": "Stay in a riad (traditional house) in the medina. Bargain hard in the souks."
       },
       {
@@ -330,12 +330,12 @@
         "name": "New York City",
         "country": "United States",
         "continent": "North America",
-        "image": "new-york.jpg",
+        "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG5ldyUyMHlvcmt8ZW58MHx8MHx8fDA%3D",
         "description": "Bustling metropolis with iconic landmarks like Times Square and Central Park.",
         "longDescription": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that's among the world's major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square. NYC is the most populous city in the United States and has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports.",
         "rating": 4.6,
         "bestTimeToVisit": "April to June, September to early November",
-        "averageCost": "$$$$",
+        "averageCost": "1800 Usd",
         "travelTips": "Get a MetroCard for subway access. Visit museums on free admission days."
       },
       {
@@ -343,12 +343,12 @@
         "name": "Paris",
         "country": "France",
         "continent": "Europe",
-        "image": "paris.jpg",
+        "image": "https://images.unsplash.com/photo-1503917988258-f87a78e3c995?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBhcmlzfGVufDB8fDB8fHww",
         "description": "Romantic capital known for art, fashion, and landmarks like the Louvre.",
         "longDescription": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré. Paris is one of the world's leading business and cultural centers; its influences in politics, education, entertainment, media, fashion, science, and the arts all contribute to its status as one of the world's major global cities.",
         "rating": 4.7,
         "bestTimeToVisit": "April to June, October to early November",
-        "averageCost": "$$$",
+        "averageCost": "900 Usd",
         "travelTips": "Buy a museum pass if visiting multiple sites. Explore neighborhoods beyond the main tourist areas."
       },
       {
@@ -356,12 +356,12 @@
         "name": "Rome",
         "country": "Italy",
         "continent": "Europe",
-        "image": "rome.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1675975706513-9daba0ec12a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm9tZXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Eternal city with ancient ruins like the Colosseum and Vatican City.",
         "longDescription": "Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The city is known for its ancient history, with landmarks such as the Colosseum, the Roman Forum, and the Pantheon. Rome also contains Vatican City, the center of the Catholic Church and home to St. Peter's Basilica and the Vatican Museums.",
         "rating": 4.7,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$$",
+        "averageCost": "900 Usd",
         "travelTips": "Book Vatican tickets in advance to skip long lines. Try authentic carbonara in Trastevere."
       },
       {
@@ -369,12 +369,12 @@
         "name": "Barcelona",
         "country": "Spain",
         "continent": "Europe",
-        "image": "barcelona.jpg",
+        "image": "https://images.unsplash.com/photo-1622227614434-a7a26021879f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJhcmNlbG9uYXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Vibrant city with unique Gaudí architecture and Mediterranean beaches.",
         "longDescription": "Barcelona, the cosmopolitan capital of Spain's Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. Museu Picasso and Fundació Joan Miró feature modern art by their namesakes. City history museum MUHBA includes several Roman archaeological sites. Barcelona is one of the world's leading tourist, economic, trade fair and cultural centers, and its influence in commerce, education, entertainment, media, fashion, science, and the arts all contribute to its status as one of the world's major global cities.",
         "rating": 4.6,
         "bestTimeToVisit": "May to June, September to October",
-        "averageCost": "$$",
+        "averageCost": "500 Usd",
         "travelTips": "Book Sagrada Família tickets online to skip queues. Try tapas in the Gothic Quarter."
       },
       {
@@ -382,12 +382,12 @@
         "name": "Prague",
         "country": "Czech Republic",
         "continent": "Europe",
-        "image": "prague.jpg",
+        "image": "https://images.unsplash.com/photo-1571778200037-250828fe3eee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJhZ3VlfGVufDB8fDB8fHww",
         "description": "Beautiful city with medieval Old Town and Prague Castle.",
         "longDescription": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed 'the City of a Hundred Spires,' it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints. Prague is the political, cultural and economic center of central Europe complete with a rich history. Founded during the Romanesque and flourishing by the Gothic, Renaissance and Baroque eras, Prague was the capital of the Kingdom of Bohemia.",
         "rating": 4.7,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$",
+        "averageCost": "800 Usd",
         "travelTips": "Visit Prague Castle early to avoid crowds. Try traditional Czech beer and goulash."
       },
       {
@@ -395,12 +395,12 @@
         "name": "Amsterdam",
         "country": "Netherlands",
         "continent": "Europe",
-        "image": "amsterdam.jpg",
+        "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEFtc3RlcmRhbXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Canalside city with artistic heritage, narrow houses, and cycling culture.",
         "longDescription": "Amsterdam is the Netherlands' capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city's 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city's character, and there are numerous bike paths. Amsterdam is one of the most popular tourist destinations in Europe, receiving more than 4.63 million international visitors annually. The city is also known for its nightlife and festival activity.",
         "rating": 4.6,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$$",
+        "averageCost": "600 Usd",
         "travelTips": "Rent a bike to explore like a local. Visit the Anne Frank House (book tickets well in advance)."
       },
       {
@@ -421,12 +421,12 @@
         "name": "Vienna",
         "country": "Austria",
         "continent": "Europe",
-        "image": "vienna.jpg",
+        "image": "https://images.unsplash.com/photo-1573167443175-867d91708f97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Vmllbm5hfGVufDB8fDB8fHww",
         "description": "Elegant capital with imperial palaces and classical music heritage.",
         "longDescription": "Vienna, Austria's capital, lies in the country's east on the Danube River. Its artistic and intellectual legacy was shaped by residents including Mozart, Beethoven and Sigmund Freud. The city is also known for its Imperial palaces, including Schönbrunn, the Habsburgs' summer residence. In the MuseumsQuartier district, historic and contemporary buildings display works by Egon Schiele, Gustav Klimt and other artists. Vienna is known for its high quality of life and is consistently ranked among the top cities in the world for its culture of innovation. In 2001, the city center was designated a UNESCO World Heritage Site.",
         "rating": 4.7,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$$",
+        "averageCost": "500 Usd",
         "travelTips": "Attend a classical music performance. Try Sachertorte at Café Sacher."
       },
       {
@@ -434,12 +434,12 @@
         "name": "Edinburgh",
         "country": "Scotland",
         "continent": "Europe",
-        "image": "edinburgh.jpg",
+        "image": "https://images.unsplash.com/photo-1569668444050-b7bc2bfec0c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWRpbmJ1cmdofGVufDB8fDB8fHww",
         "description": "Historic Scottish capital with a medieval Old Town and hilltop castle.",
         "longDescription": "Edinburgh is Scotland's compact, hilly capital. It has a medieval Old Town and elegant Georgian New Town with gardens and neoclassical buildings. Looming over the city is Edinburgh Castle, home to Scotland's crown jewels and the Stone of Destiny, used in the coronation of Scottish rulers. The city is home to national cultural institutions such as the National Museum of Scotland, the National Library of Scotland and the Scottish National Gallery. The University of Edinburgh, founded in 1582, is now one of four in the city. Edinburgh's Old Town and New Town together are listed as a UNESCO World Heritage Site.",
         "rating": 4.7,
         "bestTimeToVisit": "June to August (for festivals), April to May, September to October",
-        "averageCost": "$$",
+        "averageCost": "550 Usd",
         "travelTips": "Visit during the Edinburgh Festival Fringe in August. Hike up Arthur's Seat for great views."
       },
       {
@@ -447,12 +447,12 @@
         "name": "Istanbul",
         "country": "Turkey",
         "continent": "Asia",
-        "image": "istanbul.jpg",
+        "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SXN0YW5idWx8ZW58MHx8MHx8fDA%3D",
         "description": "City straddling Europe and Asia with historic mosques and bazaars.",
         "longDescription": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics. Istanbul is the most populous European city and the world's 15th-largest city. The city was founded as Byzantium in the 7th century BCE by Greek settlers from Megara.",
         "rating": 4.7,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$",
+        "averageCost": "1600 Usd",
         "travelTips": "Visit the Grand Bazaar for shopping. Try authentic Turkish breakfast and baklava."
       },
       {
@@ -460,12 +460,12 @@
         "name": "Kyoto",
         "country": "Japan",
         "continent": "Asia",
-        "image": "kyoto.jpg",
+        "image": "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S3lvdG98ZW58MHx8MHx8fDA%3D",
         "description": "Former imperial capital with classical Buddhist temples and gardens.",
         "longDescription": "Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines and traditional wooden houses. It's also known for formal traditions such as kaiseki dining, consisting of multiple courses of precise dishes, and geisha, female entertainers often found in the Gion district. Kyoto was the imperial capital of Japan for more than one thousand years, from 794 until 1868. It is now the capital city of Kyoto Prefecture in Japan and part of the Keihanshin metropolitan area.",
-        "rating": 4.8,
+        "rating": 4.9,
         "bestTimeToVisit": "March to April (cherry blossoms), October to November (fall colors)",
-        "averageCost": "$$$",
+        "averageCost": "750 Usd",
         "travelTips": "Visit Fushimi Inari Shrine early to avoid crowds. Try a traditional tea ceremony."
       },
       {
@@ -473,12 +473,12 @@
         "name": "Bali",
         "country": "Indonesia",
         "continent": "Asia",
-        "image": "bali.jpg",
+        "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmFsaXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Tropical island known for its forested volcanic mountains and coral reefs.",
         "longDescription": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple. To the south, the beachside city of Kuta has lively bars, while Seminyak, Sanur and Nusa Dua are popular resort towns. The island is also known for its yoga and meditation retreats. Bali is the only Hindu-majority province in Indonesia, with 83.5% of the population adhering to Balinese Hinduism. It is renowned for its highly developed arts, including traditional and modern dance, sculpture, painting, leather, metalworking, and music.",
         "rating": 4.7,
         "bestTimeToVisit": "April to October (dry season)",
-        "averageCost": "$$",
+        "averageCost": "350 Usd",
         "travelTips": "Visit Ubud for culture and Uluwatu for beaches. Respect local customs at temples."
       },
       {
@@ -499,12 +499,12 @@
         "name": "Taj Mahal",
         "country": "India",
         "continent": "Asia",
-        "image": "taj-mahal.jpg",
+        "image": "https://images.unsplash.com/photo-1585506942812-e72b29cef752?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGFqJTIwTWFoYWx8ZW58MHx8MHx8fDA%3D",
         "description": "Iconic white marble mausoleum in Agra, a symbol of love.",
         "longDescription": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centerpiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall. The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being 'the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage'.",
         "rating": 4.9,
         "bestTimeToVisit": "October to March",
-        "averageCost": "$$",
+        "averageCost": "700 Usd",
         "travelTips": "Visit at sunrise for the best light and fewer crowds. The north gate has shorter lines."
       },
       {
@@ -512,12 +512,12 @@
         "name": "Cappadocia",
         "country": "Turkey",
         "continent": "Asia",
-        "image": "cappadocia.jpg",
+        "image": "https://images.unsplash.com/photo-1631724533937-687e6e60aafe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2FwcGFkb2NpYXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Famous for its 'fairy chimney' rock formations and hot air balloon rides.",
         "longDescription": "Cappadocia is a historical region in Central Anatolia, largely in the Nevşehir, Kayseri, Kırşehir, Aksaray, Malatya, Sivas and Niğde provinces in Turkey. It is famous for its unique rock formations and amazing hot air ballooning opportunities. The area is a popular tourist destination as it has many areas with unique geological, historic, and cultural features. The region is located southwest of the major city Kayseri, which has airline and railway service to Ankara and Istanbul. The Cappadocia region was formed as a result of volcanic eruptions millions of years ago, followed by erosion from wind and water over thousands of years.",
         "rating": 4.8,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$",
+        "averageCost": "900 Usd",
         "travelTips": "Take a sunrise hot air balloon ride. Stay in a cave hotel for a unique experience."
       },
       {
@@ -525,12 +525,12 @@
         "name": "Patagonia",
         "country": "Argentina/Chile",
         "continent": "South America",
-        "image": "patagonia.jpg",
+        "image": "https://images.unsplash.com/photo-1530088018346-02bcdeb1085a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBhdGFnb25pYXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Vast region at the southern end of South America with stunning landscapes.",
         "longDescription": "Patagonia is a sparsely populated region at the southern end of South America, shared by Argentina and Chile. The region comprises the southern section of the Andes mountains as well as the deserts, steppes and grasslands east of this southern portion of the Andes. Patagonia has two coasts: a western one towards the Pacific Ocean and an eastern one towards the Atlantic Ocean. The Colorado and Barrancas rivers, which run from the Andes to the Atlantic, are commonly considered the northern limit of Argentine Patagonia. The archipelago of Tierra del Fuego is sometimes included as part of Patagonia.",
         "rating": 4.8,
         "bestTimeToVisit": "November to February (summer)",
-        "averageCost": "$$$",
+        "averageCost": "650 Usd",
         "travelTips": "Hike the 'W' circuit in Torres del Paine. Bring layers for unpredictable weather."
       },
       {
@@ -538,12 +538,12 @@
         "name": "Yellowstone National Park",
         "country": "United States",
         "continent": "North America",
-        "image": "yellowstone.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1661869057020-5990ccd4f892?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8WWVsbG93c3RvbmUlMjBOYXRpb25hbCUyMFBhcmt8ZW58MHx8MHx8fDA%3D",
         "description": "First national park in the world with geysers, hot springs, and wildlife.",
         "longDescription": "Yellowstone National Park is a nearly 3,500-sq.-mile wilderness recreation area atop a volcanic hot spot. Mostly in Wyoming, the park spreads into parts of Montana and Idaho too. It features dramatic canyons, alpine rivers, lush forests, hot springs and gushing geysers, including its most famous, Old Faithful. It's also home to hundreds of animal species, including bears, wolves, bison, elk and antelope. Yellowstone was the first national park in the U.S. and is also widely held to be the first national park in the world. The park is known for its wildlife and its many geothermal features.",
         "rating": 4.8,
         "bestTimeToVisit": "April to May, September to October",
-        "averageCost": "$$",
+        "averageCost": "700 Usd",
         "travelTips": "Book accommodations well in advance. Stay on boardwalks near geothermal features."
       },
       {
@@ -551,12 +551,12 @@
         "name": "Maldives",
         "country": "Maldives",
         "continent": "Asia",
-        "image": "maldives.jpg",
+        "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFsZGl2ZXN8ZW58MHx8MHx8fDA%3D",
         "description": "Tropical nation in the Indian Ocean with overwater bungalows and coral reefs.",
         "longDescription": "The Maldives is a tropical nation in the Indian Ocean composed of 26 coral atolls, which are made up of hundreds of islands. It's known for its beaches, blue lagoons and extensive reefs. The capital, Malé, has a busy fish market, restaurants and shops on the main road, Majeedhee Magu, and 17th-century Hukuru Miskiy (also known as Friday Mosque) made of carved white coral. The Maldives is the smallest Asian country in both land area and population. With an average ground-level elevation of 1.5 meters (4 ft 11 in) above sea level, it is the world's lowest-lying country.",
         "rating": 4.8,
         "bestTimeToVisit": "November to April (dry season)",
-        "averageCost": "$$$$$",
+        "averageCost": "3000 Usd",
         "travelTips": "Stay in an overwater villa. Try snorkeling or diving to see manta rays and whale sharks."
       },
       {
@@ -564,12 +564,12 @@
         "name": "Seychelles",
         "country": "Seychelles",
         "continent": "Africa",
-        "image": "seychelles.jpg",
+        "image": "https://images.unsplash.com/photo-1516534726759-c5ae5aea7965?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "Archipelago in the Indian Ocean with pristine beaches and unique wildlife.",
         "longDescription": "Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka. Seychelles has the smallest population of any African state. The Seychelles were uninhabited throughout most of recorded history. Some scholars assume that Austronesian seafarers were the first to visit the uninhabited islands.",
         "rating": 4.8,
         "bestTimeToVisit": "April to May, October to November",
-        "averageCost": "$$$$$",
+        "averageCost": "2500 Usd",
         "travelTips": "Visit Vallée de Mai to see the rare coco de mer palm. Try Creole cuisine."
       },
       {
@@ -577,12 +577,12 @@
         "name": "Zermatt",
         "country": "Switzerland",
         "continent": "Europe",
-        "image": "zermatt.jpg",
+        "image": "https://images.unsplash.com/photo-1571274834067-3a24675547b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8WmVybWF0dHxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Alpine resort town with car-free streets and views of the Matterhorn.",
         "longDescription": "Zermatt is a mountain resort town in Switzerland's Valais canton. It's known for its skiing, climbing and hiking trails. The town sits beneath the iconic, pyramid-shaped Matterhorn peak. Its main street, Bahnhofstrasse is lined with boutique shops, hotels and restaurants, and has a lively après-ski scene. Zermatt is one of the most famous ski resorts in the world and is a car-free zone, with electric taxis and horse-drawn carriages as the only means of public transport within the village. The Matterhorn, a near-symmetrical pyramidal peak in the extended Monte Rosa area of the Pennine Alps, is one of the highest summits in the Alps and Europe.",
         "rating": 4.7,
         "bestTimeToVisit": "December to March (skiing), June to September (hiking)",
-        "averageCost": "$$$$",
+        "averageCost": "1000 Usd",
         "travelTips": "Take the Gornergrat railway for stunning Matterhorn views. Try raclette, a local cheese dish."
       },
       {
@@ -590,12 +590,12 @@
         "name": "Banff National Park",
         "country": "Canada",
         "continent": "North America",
-        "image": "banff.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1669741909456-61b8b9b3f329?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmFuZmYlMjBOYXRpb25hbCUyMFBhcmt8ZW58MHx8MHx8fDA%3D",
         "description": "Canada's first national park with stunning Rocky Mountain scenery.",
         "longDescription": "Banff National Park is Canada's oldest national park, established in 1885 in the Rocky Mountains. The park, located 110–180 kilometers (68–112 mi) west of Calgary in the province of Alberta, encompasses 6,641 square kilometers (2,564 sq mi) of mountainous terrain, with numerous glaciers and ice fields, dense coniferous forest, and alpine landscapes. The Icefields Parkway extends from Lake Louise, connecting to Jasper National Park in the north. Provincial forests and Yoho National Park are neighbors to the west, while Kootenay National Park is located to the south.",
         "rating": 4.8,
         "bestTimeToVisit": "June to August, December to March (for skiing)",
-        "averageCost": "$$$",
+        "averageCost": "400 Usd",
         "travelTips": "Visit Lake Louise and Moraine Lake early to avoid crowds. The hot springs are a great way to relax after hiking."
       },
       {
@@ -603,12 +603,12 @@
         "name": "Queenstown",
         "country": "New Zealand",
         "continent": "Australia",
-        "image": "queenstown.jpg",
+        "image": "https://images.unsplash.com/photo-1598054436667-5aab32a2b42c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "description": "Adventure capital of the world with stunning alpine scenery.",
         "longDescription": "Queenstown is a resort town in Otago in the south-west of New Zealand's South Island. It has an urban population of 15,850, making it the 27th largest urban area in New Zealand. In 2016, Queenstown overtook Oamaru to become the second largest urban area in Otago, behind Dunedin. The town is built around an inlet called Queenstown Bay on Lake Wakatipu, a long, thin, Z-shaped lake formed by glacial processes, and has views of nearby mountains such as The Remarkables, Cecil Peak, Walter Peak and just above the town, Ben Lomond and Queenstown Hill.",
         "rating": 4.7,
         "bestTimeToVisit": "December to February (summer), June to August (winter sports)",
-        "averageCost": "$$$",
+        "averageCost": "750 Usd",
         "travelTips": "Try bungee jumping or jet boating. Take the gondola up Bob's Peak for amazing views."
       },
       {
@@ -616,12 +616,12 @@
         "name": "Fiordland National Park",
         "country": "New Zealand",
         "continent": "Australia",
-        "image": "fiordland.jpg",
+        "image": "https://images.unsplash.com/photo-1543695823-0b810db86e10?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmlvcmRsYW5kJTIwTmF0aW9uYWwlMjBQYXJrfGVufDB8fDB8fHww",
         "description": "Stunning national park with fjords, waterfalls, and rainforests.",
         "longDescription": "Fiordland National Park occupies the southwest corner of the South Island of New Zealand. It is by far the largest of the 13 national parks in New Zealand, with an area of 12,607 square kilometers (4,868 sq mi), and a major part of the Te Wahipounamu World Heritage Site. The park is administered by the Department of Conservation. The park's mountains, lakes, waterfalls and fiords were carved by glaciers over 100,000 years. The park is home to the Milford Sound, described by Rudyard Kipling as the 'eighth wonder of the world', and the Doubtful Sound, which is three times longer and has a sea surface area roughly ten times larger.",
         "rating": 4.9,
         "bestTimeToVisit": "November to April",
-        "averageCost": "$$$",
+        "averageCost": "850 Usd",
         "travelTips": "Take a cruise on Milford Sound. Hike the Milford Track if possible."
       },
       {
@@ -629,12 +629,12 @@
         "name": "Uluru (Ayers Rock)",
         "country": "Australia",
         "continent": "Australia",
-        "image": "uluru.jpg",
+        "image": "https://images.unsplash.com/photo-1698110165792-a5cddbb5a302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VWx1cnUlMjAoQXllcnMlMjBSb2NrKXxlbnwwfHwwfHx8MA%3D%3D",
         "description": "Massive sandstone monolith in the heart of Australia's Red Centre.",
         "longDescription": "Uluru, or Ayers Rock, is a massive sandstone monolith in the heart of the Northern Territory's arid 'Red Centre'. The nearest large town is Alice Springs, 450km away. Uluru is sacred to indigenous Australians and is thought to have started forming around 550 million years ago. It's within Uluru-Kata Tjuta National Park, which also includes the 36 red-rock domes of the Kata Tjuta (colloquially 'The Olgas') formation. Uluru is notable for appearing to change color at different times of the day and year, most notably when it glows red at dawn and sunset. The sandstone formation stands 348 m (1,142 ft) high.",
         "rating": 4.8,
         "bestTimeToVisit": "May to September",
-        "averageCost": "$$$",
+        "averageCost": "650 Usd",
         "travelTips": "Respect indigenous culture - climbing Uluru is discouraged. Visit at sunrise or sunset for color changes."
       }
     ]
