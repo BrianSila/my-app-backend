@@ -486,12 +486,12 @@
         "name": "Halong Bay",
         "country": "Vietnam",
         "continent": "Asia",
-        "image": "halong-bay.jpg",
+        "image": "https://plus.unsplash.com/premium_photo-1692731797429-29f36ab2bd68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aGFsb25nJTIwYmF5fGVufDB8fDB8fHww",
         "description": "Scenic bay with thousands of limestone karsts and isles.",
         "longDescription": "Halong Bay, in northeast Vietnam, is known for its emerald waters and thousands of towering limestone islands topped by rainforests. Junk boat tours and sea kayak expeditions take visitors past islands named for their shapes, including Stone Dog and Teapot islets. The region is popular for scuba diving, rock climbing and hiking, particularly in mountainous Cát Bà National Park. The bay features thousands of limestone karsts and isles in various shapes and sizes. Ha Long Bay is a center of a larger zone which includes Bai Tu Long Bay to the northeast, and Cat Ba Island to the southwest.",
         "rating": 4.8,
         "bestTimeToVisit": "March to April, September to November",
-        "averageCost": "$$",
+        "averageCost": "450 Usd",
         "travelTips": "Take an overnight cruise to experience the bay fully. Kayak to hidden lagoons."
       },
       {
